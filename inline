@@ -1,0 +1,11 @@
+!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Upgrade Formación</title>
+  </head>
+  <body>
+    <h1 style="color: red;background-color: green;border: 4px solid black;">Aprendiendo a hacer css;n!</h1>
+    <p style="color:red;">Otro nivel de los buenos, aprendiendo css vamos!!!</p>
+  </body>
+</html>
