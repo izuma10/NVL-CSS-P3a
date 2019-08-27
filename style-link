@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  < meta charset ="utf-8">
+    <title>Primera  practica estilo <strong>link</strong></title>
+      <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<p> En la vida he hecho uno de esto, no se ni como se ni como es un teclado de ordenador hulio</p>
+</body>
+</html>
+p{
+  color: red;
+  background-color: black;
+  border: 2px solid black;
+}
